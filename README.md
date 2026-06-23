@@ -1,4 +1,4 @@
-# AdGenie — Case Study
+# AdGenie — Case Study 🧞‍♀️
 
 **It started as a fast fix for one frustrating bottleneck. It grew into the company's flagship internal platform. Today it's a consolidated, AI-powered product — all built by yours truly <3.**
 
@@ -48,7 +48,7 @@ The architecture is **client-agnostic and reusable** — adding a new data sourc
 
 ## What I took from it
 
-AdGenie is the clearest example of how I like to work — and how I grow while doing it. I started by solving one problem with a small tool, learned the parts I didn't yet know (including the API engineering, from a teammate I respect), and kept building until a quick fix became a product the whole company relies on. That same arc — start small, learn fast, consolidate into something lasting — is the approach I'm now applying to migrating legacy dashboards into custom web applications.
+AdGenie is the clearest example of how I like to work — and how I grow while doing it. I started by solving one problem with a small tool, learned the parts I didn't yet know (including the API engineering, from a teammate I respect), and kept building until a quick fix became a product the whole company relies on. That same arc — start small, learn fast, consolidate into something lasting — is the approach I'm now applying to migrating legacy dashboards into custom web applications. And with a cool interface and name too!! 😉
 
 ---
 
