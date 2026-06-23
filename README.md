@@ -1,6 +1,6 @@
 # AdGenie — Case Study
 
-**It started as a fast fix for one frustrating bottleneck. It grew into the company's flagship internal platform. Today it's a consolidated, AI-powered product — and I built nearly all of it.**
+**It started as a fast fix for one frustrating bottleneck. It grew into the company's flagship internal platform. Today it's a consolidated, AI-powered product — all built by yours truly <3.**
 
 *Role: creator, designer & lead developer · Stack: Python, Node.js, LLM-assisted, SQL*
 
