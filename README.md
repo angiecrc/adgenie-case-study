@@ -1,1 +1,0 @@
-# adgenie-case-study
